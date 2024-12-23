@@ -19,7 +19,7 @@ I am Sushma Vem, a graduate student in Computer Science, passionate about softwa
 
 
 ## 🌐 Live Demo
-You can view the live version of my portfolio here: [https://<your-username>.github.io/portfolio](https://<your-username>.github.io/portfolio)
+You can view the live version of my portfolio here: 
 
 ## ✨ Highlights
 
